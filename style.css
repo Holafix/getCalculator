@@ -66,6 +66,10 @@ table{
     margin-top: 30px;
 }
 
+thead{
+    position: sticky;
+}
+
 .display-none{
     display: none;
 }
