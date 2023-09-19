@@ -9,6 +9,7 @@ body{
     flex-direction: column;
     height: 100vh;
     height: -webkit-fill-available;
+    overflow: hidden;
 }
 
 .wrapper{
@@ -16,6 +17,12 @@ body{
     margin: 0 auto;
     flex: 1;
     position: relative;
+}
+
+table{
+    height: 40%;
+    overflow-x: hidden;
+    overflow-y: scroll;
 }
 
 header{
