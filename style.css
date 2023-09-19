@@ -70,7 +70,7 @@ table{
 thead{
     position: sticky;
     top: 0;
-    background: black;
+    background-color: black;
 }
 
 .display-none{
