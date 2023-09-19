@@ -20,7 +20,6 @@ body{
 }
 
 .tabled{
-    margin-top: 30px;
     max-height: 300px;
     overflow: auto;
 }
@@ -57,18 +56,12 @@ header i{
 
 h1{
     text-align: center;
-
     text-shadow: 2px 2px 2px rgb(24, 206, 121), 4px 4px 4px rgb(6, 240, 64);
     font-weight: 600;
     font-size: 35px;
 }
 
-table{
-    margin-top: 30px;
-}
-
 thead{
-    margin-top: 30px;
     position: sticky;
     top: 0;
     background-color: black;
