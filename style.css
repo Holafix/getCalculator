@@ -67,7 +67,7 @@ table{
 tbody td{
     text-transform:uppercase;
 }
-.wrapper .btn-warning{
+.wrapper .button{
    position: absolute;
    top: 95%;
    left: 38%;
