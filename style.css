@@ -20,9 +20,8 @@ body{
 }
 
 .tabled{
-    max-height: 20px;
-    overflow-x: hidden;
-    overflow-y: scroll;
+    max-height: 100px;
+    overflow: auto;
 }
 
 header{
