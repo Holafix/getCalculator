@@ -16,8 +16,6 @@ body{
     margin: 0 auto;
     flex: 1;
     position: relative;
-    height: 40%;
-    overflow-y: scroll;
 }
 
 header{
