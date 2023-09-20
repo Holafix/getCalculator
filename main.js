@@ -21,7 +21,6 @@ add.addEventListener('click', () => {
     tdUnitValue.innerHTML=unitValue.value;
     const tdGrade=document.createElement('td');
     tdGrade.innerHTML=grade.options[grade.selectedIndex].text;
-    tdButton.appendChild(removeButton);
     tr.appendChild(tdCourseCode);
     tr.appendChild(tdUnitValue);
     tr.appendChild(tdGrade);
