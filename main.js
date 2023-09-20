@@ -21,6 +21,7 @@ add.addEventListener('click', () => {
     tdUnitValue.innerHTML=unitValue.value;
     const tdGrade=document.createElement('td');
     tdGrade.innerHTML=grade.options[grade.selectedIndex].text;
+    tdButton.appendChild(removeButton);
     tr.appendChild(tdCourseCode);
     tr.appendChild(tdUnitValue);
     tr.appendChild(tdGrade);
@@ -73,3 +74,4 @@ reset.addEventListener('click', () => {
 fourPoint.addEventListener('click', () => {
     window.location.href = "index2.html";
 })
+
