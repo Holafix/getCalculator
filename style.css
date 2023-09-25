@@ -10,7 +10,7 @@ body{
     height: 100vh;
     height: -webkit-fill-available;
     overflow: hidden;
-    max-width: 100vh;
+    max-width: 100%;
 }
 
 .wrapper{
