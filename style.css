@@ -19,11 +19,6 @@ body{
     flex: 1;
     position: relative;
 }
-.ads{
-    overflow-x: hidden;
-    width: 110%;
-    margin-left: -18px;
- }
 
 .row{
     margin-bottom: 30px;
