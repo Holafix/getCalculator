@@ -73,3 +73,8 @@ reset.addEventListener('click', () => {
 fourPoint.addEventListener('click', () => {
     window.location.href = "index.html";
 })
+
+ourName.addEventListener('click', ()=>{
+    alert('Oyerinde Sodiq, Abdulyekeen Oluwadabira, Abubakar Yetunde, Olurode Musab, Dauda Shedrack, Ademiju Paul, Bassey Shalom, Elamah Semiat, Alikeh Christoper')
+})
+
